@@ -3,16 +3,15 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=FF1493&background=00000000&center=true&vCenter=true&width=800&lines=👑+QUEEN+LORA+XMD;🚀+ULTIMATE+WHATSAPP+BOT;⚡+POWERED+BY+DIANA+TECH;🔥+FAST+%7C+SMART+%7C+POWERFUL" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=FF1493&background=00000000&center=true&vCenter=true&width=800&lines=👑+REXZ+ZYRAS+XMD;🚀+ULTIMATE+WHATSAPP+BOT;⚡+POWERED+BY+REXZ+ZYRAS+XMD;🇦🇱+FAST+%7C+SMART+%7C+POWERFUL" />
 </h1>
 
-<p align="center">
-  <img src="https://files.catbox.moe/czmlou.jpeg" width="90%" style="border-radius:20px;">
 </p>
+
 
 <div align="center">
 
-![Stars](https://img.shields.io/github/stars/QUEEN-DIANA/QUEEN-LORA?style=for-the-badge&logo=github&color=FFD700)
+![Stars](https://img.shields.io/github/stars/REXZ?style=for-the-badge&logo=github&color=FFD700)
 ![Forks](https://img.shields.io/github/forks/QUEEN-DIANA/QUEEN-LORA?style=for-the-badge&logo=github&color=00FFFF)
 ![Issues](https://img.shields.io/github/issues/QUEEN-DIANA/QUEEN-LORA?style=for-the-badge&logo=github&color=FF0000)
 ![License](https://img.shields.io/github/license/QUEEN-DIANA/QUEEN-LORA?style=for-the-badge&color=blue)
@@ -21,27 +20,13 @@
 
 ---
 
-# 🌟 SUPPORT QUEEN LORA
-
-<div align="center">
-
-<a href="https://github.com/QUEEN-DIANA/QUEEN-LORA">
-<img src="https://img.shields.io/badge/⭐_STAR_REPOSITORY-FFD700?style=for-the-badge">
-</a>
-
-<a href="https://github.com/QUEEN-DIANA/QUEEN-LORA/fork">
-<img src="https://img.shields.io/badge/🍴_FORK_REPOSITORY-00FFFF?style=for-the-badge">
-</a>
-
-</div>
-
 ---
 
 # 🔐 GET SESSION ID
 
 <div align="center">
 
-<a href="https://queen-lora-session.onrender.com">
+<a href="https://rexz-zyras-session.onrender.com">
 <img src="https://img.shields.io/badge/🔑_SESSION_ID_GENERATOR-FF0000?style=for-the-badge">
 </a>
 
@@ -100,7 +85,7 @@
 ```env
 SESSION_ID=
 OWNER_NUMBER=
-BOT_NAME=QUEEN LORA
+BOT_NAME=REXZ-ZYRAS 
 PREFIX=.
 MODE=public
 
@@ -135,29 +120,29 @@ Setup Guide
 
 📢 OFFICIAL CHANNEL
 
-<div align="center"><a href="https://whatsapp.com/channel/0029VajohKp5a2498c8Dbl2Y">
+<div align="center"><a href="https://whatsapp.com/channel/0029VbDVoLW9xVJbhYZ26u3O">
 <img src="https://img.shields.io/badge/📢_JOIN_CHANNEL-25D366?style=for-the-badge&logo=whatsapp">
 </a></div>
 
 🔄 UPDATE GROUP
 
-<div align="center"><a href="https://chat.whatsapp.com/FLLczzuNQX9FDR7TXSuh7f">
+<div align="center"><a href="https://chat.whatsapp.com/FrKDrONCi7l8mpGG2e3CBn">
 <img src="https://img.shields.io/badge/🔄_UPDATE_GROUP-FFA500?style=for-the-badge&logo=whatsapp">
 </a></div>
 
 👑 DEVELOPER
 
-<div align="center"><a href="https://wa.me/18492823944?text=Hello+DIANA+TECH">
-<img src="https://img.shields.io/badge/👑_DIANA_TECH-FF1493?style=for-the-badge">
+<div align="center"><a href="https://wa.me/+6283199504396text=Hello+DIANA+TECH">
+<img src="https://img.shields.io/badge/👑_REXZ_ZYRAS-FF1493?style=for-the-badge">
 </a></div>
 
-💖 THANKS FOR USING QUEEN LORA
+🇦🇱 THANKS FOR USING REXZ
 
 <div align="center">🚀 Fast • Smart • Powerful
 
-Made With ❤️ By Diana Tech
+Made With  By Rexz 
 
-© 2026 QUEEN LORA XMD
+© 2026 Rexz XMD
 
 </div><p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="45">
